@@ -1,8 +1,8 @@
-## 👋 Yoo, I'm Andritiana Henrino Ramariarison but you can call me Vintsy
+## Yoo, I'm Andritiana Henrino Ramariarison but you can call me Vintsy
 
-🎓 Master 2 Computer Science Student  
-💻 Fullstack Developer (PHP / JavaScript)  
-📍 Fianarantsoa, Madagascar  
+- Master 2 Computer Science Student  
+- Fullstack Developer (PHP / JavaScript)  
+- Fianarantsoa, Madagascar  
 
 ---
 
