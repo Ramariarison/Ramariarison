@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Andritiana Henrino Ramariarison
+## 👋 Yoo, I'm Andritiana Henrino Ramariarison but you can call me Vintsy
 
 🎓 Master 2 Computer Science Student  
 💻 Fullstack Developer (PHP / JavaScript)  
@@ -26,14 +26,6 @@ Strong interest in backend development, APIs and modern web technologies.
 
 ---
 
-### Projects
-
-- **Note Manager** — personal note management app  
-- **Internal Social Network** — academic project (Laravel)  
-- **Judicial Investigation Simulation** — Python project  
-
----
-
 ### Currently learning
 
 - Backend best practices  
@@ -45,4 +37,5 @@ Strong interest in backend development, APIs and modern web technologies.
 ### Contact
 
 GitHub → https://github.com/Ramariarison
+
 Email → andryramariarison@gmail.com
