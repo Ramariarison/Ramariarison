@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Hi, I'm Andritiana Henrino Ramariarison
 
-<!--
-**Ramariarison/Ramariarison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master 2 Computer Science Student  
+💻 Fullstack Developer (PHP / JavaScript)  
+📍 Fianarantsoa, Madagascar  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+Fullstack developer in training, focused on building clean, functional and scalable web applications.  
+Strong interest in backend development, APIs and modern web technologies.
+
+---
+
+### Tech stack
+
+**Languages**
+- PHP · JavaScript · Python · SQL
+
+**Frameworks & Tools**
+- Laravel · Vue.js  
+- Git & GitHub  
+- MySQL · XAMPP  
+- VS Code · PhpStorm
+
+---
+
+### Projects
+
+- **Note Manager** — personal note management app  
+- **Internal Social Network** — academic project (Laravel)  
+- **Judicial Investigation Simulation** — Python project  
+
+---
+
+### Currently learning
+
+- Backend best practices  
+- REST API security  
+- Application architecture  
+
+---
+
+### Contact
+
+GitHub → https://github.com/Ramariarison
+Email → andryramariarison@gmail.com
