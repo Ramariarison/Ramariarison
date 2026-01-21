@@ -26,14 +26,6 @@ Strong interest in backend development, APIs and modern web technologies.
 
 ---
 
-### Currently learning
-
-- Backend best practices  
-- REST API security  
-- Application architecture  
-
----
-
 ### Contact
 
 GitHub → https://github.com/Ramariarison
