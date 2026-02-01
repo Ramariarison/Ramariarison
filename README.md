@@ -4,8 +4,6 @@
 - Fullstack Developer (PHP / JavaScript)  
 - Fianarantsoa, Madagascar  
 
----
-
 ### About me
 
 Fullstack developer in training, focused on building clean, functional and scalable web applications.  
