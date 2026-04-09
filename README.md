@@ -1,6 +1,6 @@
 # Bonjour, je suis Andry
 
-### Développeur Full Stack junior | Master 2 Informatique
+Développeur Full Stack junior | Master 2 Informatique
 
 ## Me contacter
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Ramariarison)
@@ -14,8 +14,6 @@
 **Base de données** : MySQL, PostgreSQL  
 **Outils** : Git, Docker, Figma, Vite  
 
----
-
 ## Statistiques GitHub
 
 ![GitHub followers](https://img.shields.io/github/followers/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
@@ -23,12 +21,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ramariarison/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramariarison&theme=github_dark)
 
----
-
 ## Projets
 
 - **[Mon Portfolio](https://github.com/Ramariarison/proto-portfolio)** - Portfolio React
-
----
 
 *"Code is poetry"*
