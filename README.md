@@ -20,10 +20,14 @@
 
 ---
 
-## GitHub Stats
+## Statistiques GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=dark)
+### Badges simples
+![GitHub followers](https://img.shields.io/github/followers/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
+![GitHub stars](https://img.shields.io/github/stars/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ramariarison/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramariarison&theme=github_dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramariarison&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 ---
 
