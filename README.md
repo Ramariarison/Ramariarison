@@ -22,7 +22,6 @@
 
 ## Statistiques GitHub
 
-### Badges simples
 ![GitHub followers](https://img.shields.io/github/followers/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
 ![GitHub stars](https://img.shields.io/github/stars/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ramariarison/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
@@ -33,8 +32,8 @@
 
 ## Projets
 
-- **[Mon Portfolio](https://github.com/votre-username/mon-portfolio)** - Portfolio React avec animations
+- **[Mon Portfolio](https://github.com/Ramariarison/proto-portfolio)** - Portfolio React
 
 ---
 
-💡 *"Code is poetry"*
+*"Code is poetry"*
