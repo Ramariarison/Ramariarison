@@ -14,13 +14,6 @@ Développeur Full Stack junior | Master 2 Informatique
 **Base de données** : MySQL, PostgreSQL  
 **Outils** : Git, Docker, Figma, Vite  
 
-## Statistiques GitHub
-
-![GitHub followers](https://img.shields.io/github/followers/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
-![GitHub stars](https://img.shields.io/github/stars/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ramariarison/Ramariarison?style=for-the-badge&logo=github&color=0D1117)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramariarison&theme=github_dark)
-
 ## Projets
 
 - **[Mon Portfolio](https://github.com/Ramariarison/proto-portfolio)** - Portfolio React
