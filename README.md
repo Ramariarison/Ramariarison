@@ -11,7 +11,7 @@ Développeur Full Stack junior | Master 2 Informatique
 
 **Frontend** : React, Next.js, Vue.js, TypeScript, Tailwind CSS  
 **Backend** : Laravel, PHP, Node.js  
-**Base de données** : MySQL, PostgreSQL  
+**Base de données** : MySQL, PostgreSQL, Supabase
 **Outils** : Git, Docker, Figma, Vite  
 
 ## Projets
